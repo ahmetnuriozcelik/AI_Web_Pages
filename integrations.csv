@@ -1,3 +1,4 @@
-integration_name,category,slug
-Slack,Communication,bucketlist-slack-integration
-BambooHR,HRIS,bucketlist-bamboohr-integration
+Partner,Partner_subtitle,Benefit_1_title,Benefit_2_title,Benefit_3_title
+ADP Workforce Now,Sync ADP Workforce Now with Bucketlist to automate workflows and reduce admin tasks.,Data management,Time savings,Data-driven recognition
+Workday,Connect Workday with Bucketlist to streamline employee recognition and engagement.,Seamless sync,Enhanced accuracy,Recognition automation
+BambooHR,Integrate BambooHR with Bucketlist for effortless employee data management.,Easy setup,Complete profiles,Automated updates
